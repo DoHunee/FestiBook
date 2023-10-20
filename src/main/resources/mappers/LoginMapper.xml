@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- UserMapper.xml -->
+<mapper namespace="com.in4mation.festibook.repository.login.LoginMapper">
+    <select id="findByUsername" resultType="com.in4mation.festibook.dto.login.LoginDTO">
+        SELECT member_id, member_password, delflag FROM member_table WHERE member_id  = #{member_id}
+    </select>
+
+    <select id="findByUsername2" resultType="com.in4mation.festibook.dto.member.MemberDTO">
+        SELECT * FROM member_table WHERE member_id  = #{member_id}
+    </select>
+</mapper>
