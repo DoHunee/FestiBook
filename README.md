@@ -29,13 +29,6 @@ Spring Boot를 활용하여 지역 행사와 대학 축제 정보를 위치와 �
 - 웹, 앱에서 사용가능한 반응형 웹 서비스
    
 
-### 🧑‍🤝‍🧑 맴버 구성
-![image](https://github.com/GoldenPearls/festibook/assets/135237155/55a12868-e115-48fd-b48a-f7f8f81eb4fa)
-<br/>
-
-
-
-
 
 ### 🖱️개발환경
 ![image](https://github.com/GoldenPearls/festibook/assets/135237155/8e9354ee-3743-48f3-9104-6827c2712eb8)
