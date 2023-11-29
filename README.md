@@ -7,7 +7,7 @@
 
 
 ####  팀 노션, 피그마
-[✅Notion](https://incredible-gem-98e.notion.site/in4mation-festibook-bcd05345a2364eaf9ace7d0890651980?pvs=4)
+[✅Notion](https://www.notion.so/FestiBook-3d10773e8a084fc09e3a362f6304b596)
 [✅Figma](https://www.figma.com/file/TXbT2gkAER46LdABssOK0A/%EC%9E%91%EC%97%85-%ED%99%94%EB%A9%B4?type=design&node-id=0-1&mode=design&t=ihZA3Um9rE0Ce8zv-0)
 <br/> <br/>
 
